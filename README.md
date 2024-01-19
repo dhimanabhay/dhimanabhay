@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abhay Dhiman</h1>
-<h3 align="center">A Front-End and IOS developer from Vancouver</h3>
+<h3 align="center">React developer from Vancouver</h3>
 
 - 📫 How to reach me **dhimanabhay410@gmail.com**
 
